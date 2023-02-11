@@ -1,0 +1,6 @@
+Week 06 Project:
+* An Exercise Log Tracker.
+- Uses local storage to keep track of exercises 
+that have previously been completed.
+- Keeps track of day/exercise type/muscle group/weight/sets/reps.
+- I can potentially see this using objects and array functions.
